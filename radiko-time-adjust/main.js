@@ -4,7 +4,7 @@
 // @version      0.1
 // @description
 // @author       You
-// @match        http://radiko.jp/*
+// @match        https://radiko.jp/*
 // @grant        none
 // ==/UserScript==
 
